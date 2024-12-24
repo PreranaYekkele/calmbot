@@ -12,8 +12,8 @@ A mental health chatbot providing real-time support, mood tracking, and wellness
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PreranaYekkele/CalmBot_.git
-cd mental-health-chatbot
+git clone https://github.com/PreranaYekkele/calmbot.git
+cd CalmBot
 ```
 
 2. Create and activate virtual environment:
