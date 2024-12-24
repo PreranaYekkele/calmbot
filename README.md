@@ -30,6 +30,9 @@ python app.py
 
 5. Open http://localhost:5000 in your browser
 
+6. <img width="1462" alt="Screenshot 2024-12-24 at 22 42 26" src="https://github.com/user-attachments/assets/193cf6e0-9bc5-4abf-81b8-18566a31fb12" />
+
+
 ## Features
 - Real-time chat support
 - Mood tracking
